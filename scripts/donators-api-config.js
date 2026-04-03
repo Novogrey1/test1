@@ -1,0 +1,1 @@
+window.TRP_DONATORS_API_URL = "https://script.google.com/macros/s/AKfycbxNhVzZfOsFPlPEfBdZih-nvE2c7y01TJ65vYAeUotlMZt72tdW9qmMQiHxCtjU_y7Ymw/exec";
